@@ -18,7 +18,9 @@
   * Created budgets with Chirag ![budgets](assets/budgetSetWithChirag.png) 
 * Watched Ashish's [Week 0 - Security Considerations](https://www.youtube.com/watch?v=4EMWBYVggQI&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=15)
   * Set up MFA for root user, created IAM user ![here](assets/securityWithAshish.png)
-  * ![Created](assets/awsOrganizationsWithAshish.png) an AWS Organization and ![deleted](assets/awsOrganizationDeleteWithAshish.png) for practice purposes
+  * Createdan AWS Organization and deleted for practice purposes
+   * ![Created](assets/awsOrganizationsWithAshish.png) 
+   * ![deleted](assets/awsOrganizationDeleteWithAshish.png)
   * Enabling CloudTrail for management account
   * Creating IAM user- adding MFA to it
   * Creating IAM Roles
