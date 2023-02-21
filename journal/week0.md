@@ -22,11 +22,18 @@
    * ![Created](assets/awsOrganizationsWithAshish.png) 
    * ![deleted](assets/awsOrganizationDeleteWithAshish.png)
   * Enabling CloudTrail for management account
-  * Creating IAM user- adding MFA to it
-  * Creating IAM Roles
-  * Assigning policies to the user or groups 
+   * ![cloudTrail](assets/cloudTrail.png)
 * Watched the additional video - [Generate Credentials, AWS CLI, Budget&Billing Alarm](https://www.youtube.com/watch?v=OdUnNuKylHg&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=14)
-
+  * Used different AWS Cli commands, created budget and updated it regarding the bootcamp dates
+  * Created SNS billing alarm 
+  * Created Cloudwatch alarm with alarm-config.json
+   * ![cliBudgetCloudWatch](assets/awsCliBudgetCloudWatch.png)
+  * Launed Cloudshell and worked with AWS CLI
+   * ![cloudshell](assets/cloudshell.png)
+* Recreate Conceptual Diagram in Lucid Charts
+  * ![ConceptualDiagram](assets/CrudderConceptualDiagram.png)
+* Recreate Logical Architectual Diagram in Lucid Charts
+  * ![LogicalDiagram](assets/CrudderLogicalDiagram.png)
 
 
 
