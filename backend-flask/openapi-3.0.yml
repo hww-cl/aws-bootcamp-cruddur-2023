@@ -147,7 +147,7 @@ paths:
               schema:
                 type: array
                 items:
-                  $ref: '#/components/schemas/Message'
+                  $ref: '#/components/schemas/Message'                
   /api/activities/notifications:
     get: 
       description: Return a feed of activity for all of those that I follow
